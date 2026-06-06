@@ -11,13 +11,13 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@sagsman-26A5E4?style=flat&logo=telegram)](https://t.me/sagsman)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+234_806_548_8451-25D366?style=flat&logo=whatsapp)](https://wa.me/2348065488451)
 
-📍 Kuta, Niger State, Nigeria · 📧 sagirugarba26@gmail.com · 📱 +234 806 548 8451
+📍 Kuta, Niger State, Nigeria · 📧 sagirugarba26@gmail.com · 📧 sagirugarba24@gmail.com · 📱 +234 806 548 8451
 
 ---
 
 **68 Repos** · **241 Contributions** · **6+ Languages** · **20+ Live Websites** · **4 AI Models** · **1 Play Store App**
 
-📄 [**Download CV (PDF)**](./Sagiru_Garba_CV_Fixed.pdf)
+📄 [**Download CV (PDF)**](./Sagiru_Garba_CV.pdf)
 
 </div>
 
@@ -116,6 +116,8 @@ Results-driven **Full-Stack Developer**, **AI/ML Engineer**, and **Mobile App De
 | Platform | Handle |
 |----------|--------|
 | WhatsApp / Call | +234 806 548 8451 |
+| Email (Primary) | sagirugarba26@gmail.com |
+| Email (Secondary) | sagirugarba24@gmail.com |
 | GitHub | [github.com/SagsMan](https://github.com/SagsMan) |
 | LinkedIn | [linkedin.com/in/sagiru-garba-372308280](https://linkedin.com/in/sagiru-garba-372308280) |
 | X (Twitter) | [@SagiruGarb79095](https://x.com/SagiruGarb79095) |
